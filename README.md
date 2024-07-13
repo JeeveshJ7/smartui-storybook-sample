@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Clone this repository
+1. Clone this repository 
     ```
     git clone https://github.com/LambdaTest/smartui-storybook-sample
     ```
@@ -19,7 +19,7 @@
 
 ## Running SmartUI storybook tests on a Docker container.
 
-1. Clone this repository
+1. Clone this repository 
     ```
     git clone https://github.com/LambdaTest/smartui-storybook-sample
     ```
